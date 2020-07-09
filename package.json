@@ -1,0 +1,14 @@
+{
+  "name": "url-poly",
+  "version": "1.0.0",
+  "description": "Polyfill for the URL web api.",
+  "main": "url-polyfill.min.js",
+  "scripts": {
+    "start": "terser url-polyfill.js --compress --mangle --output url-polyfill.min.js"
+  },
+  "author": "Ryan Goree <ryan@ryangoree.com> (http://ryangoree.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "terser": "^4.8.0"
+  }
+}

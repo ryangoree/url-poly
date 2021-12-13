@@ -1,6 +1,6 @@
 {
   "name": "url-poly",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Polyfill for the URL web api.",
   "main": "url-polyfill.min.js",
   "scripts": {
